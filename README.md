@@ -1,6 +1,11 @@
 # learn-lua
 learn some lua
 
+## source code order
+
+- luaconf.h
+- lua.h
+
 ## std header file used
 
 ```json
